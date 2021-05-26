@@ -1,0 +1,2 @@
+LynnHaven,McArthur Center,TownCenter,17th Street,Suffolk Downtown
+190.0,219.0,91.0,12.0,74.0

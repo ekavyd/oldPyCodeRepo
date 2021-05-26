@@ -1,0 +1,2 @@
+store1,lynnhaven,store3,norfolk,store5
+0.0,0.0,56.0,0.0,10.0
